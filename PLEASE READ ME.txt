@@ -6,7 +6,7 @@ of course you will be credited i no skied!!!
 
 ways to make commands:
 to make a brand new sexy command you will have to change a FEW.. things..
-you will have to make a coye of thhe minibyte tui / or the cmd version and do the new command there
+you will have to make a copy of thhe minibyte tui / or the cmd version and do the new command there
 so first think of a command u wanna add. i for example i will make a command that says penis simple and funny.
 ok so first you gotta modify the code, heres mine
 
