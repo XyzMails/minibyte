@@ -1,27 +1,33 @@
 minibyte made by niko
 
-#story
-so i was watching yt bcuz i am a bored dumbass
-and well i find a video of pythowo??? idfk then
-i wanted to make an programming language similar to
-luaU and python...
-so here I AM.
+if ur gonna add an command or make a version of minibyte with a "brand new sexy"command 
+try to contact me on discord or sum if you want to see your command in the minibyte,
+of course youw ill be credited i no skied!!!
 
-#important
-make sure to launch "installREQUIREMENTS.bat" or "installREQUIREMENTS" if u dont have the file extensions enabled.
+ways to make commands:
+to make a brand new sexy command you will have to change a FEW.. things..
+you will have to make a cope of thhe minibyte tui / or the cmd version and do the new command there
+so first think of a command u wanna add. i for example i will make a command that says penis simple and funny.
+ok so first you gotta modify the code, heres mine
 
-#extras
-u got some uh code1.byte very gud softwaerr so basically to explain this its just u can make ur own code in minibyte, more comfortably. so yeah do some kewl stuffz!!! USE PYTHON FOR .byte
+def penis_func(args=None):
+    return "P\n" \
+    return "E\n" \
+    return "N\n" \
+    return "I\n" \
+    return "S"
 
-#kinda important too?
-windows is recommended, but linux and macos SHOULD work. i am talking to you witheringaway
+put the modified code in somewhere where the commands are *NOT IN A COMMAND* just wheres free space on the middle.
+you gotta also modify the function code... heres what u need to add
 
-#read for some idk kewl stuffz
-so i didnt steal the code from any person like the owner kinda did from a github repository??? (talking bout the pythowo owner) as i am not a complex coder so yeahhhhh 
-
-#FOR LINUX (or mac users kys!!!!!) seriosuly tho
-since the batch file aaint working for ya so heres what u need to pip install.
-list{
-pip install arts
-pip install termcolor
+all functions
+functions = {
+#stock commands / functions here
+    "penis": penis_func,
 }
+
+ok, now either u make a repository creditin me and stuff or dm me if u want to add that command!!!
+DISCORD:
+python.is.slow
+
+yes.. thats my username on discord thats how u modify the code! simple u can change the tui too, which i kinda wouldnt suggest
