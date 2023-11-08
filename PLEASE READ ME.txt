@@ -12,10 +12,10 @@ ok so first you gotta modify the code, heres mine
 
 def penis_func(args=None):
     return "P\n" \
-    return "E\n" \
-    return "N\n" \
-    return "I\n" \
-    return "S"
+    "E\n" \
+    "N\n" \
+    "I\n" \
+    "S"
 
 put the modified code in somewhere where the commands are *NOT IN A COMMAND* just wheres free space on the middle.
 you gotta also modify the function code... heres what u need to add
