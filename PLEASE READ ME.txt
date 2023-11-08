@@ -1,12 +1,12 @@
 minibyte made by niko
 
-if ur gonna add an command or make a version of minibyte with a "brand new sexy"command 
+if ur gonna add an command or make a version of minibyte with a "brand new sexy" command 
 try to contact me on discord or sum if you want to see your command in the minibyte,
-of course youw ill be credited i no skied!!!
+of course you will be credited i no skied!!!
 
 ways to make commands:
 to make a brand new sexy command you will have to change a FEW.. things..
-you will have to make a cope of thhe minibyte tui / or the cmd version and do the new command there
+you will have to make a coye of thhe minibyte tui / or the cmd version and do the new command there
 so first think of a command u wanna add. i for example i will make a command that says penis simple and funny.
 ok so first you gotta modify the code, heres mine
 
